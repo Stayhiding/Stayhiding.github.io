@@ -1,10 +1,8 @@
 # Lightsnatcher.github.io
-
-<!doctype html>
 <html>
 <head>
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta id="title" name="apple-mobile-web-app-title" content="web app">
+<meta id="title" name="apple-mobile-web-app-title" content="Proxy">
 
 <link id="icon" rel="apple-touch-icon" href="round_cydia_icon_by_5284973_d4khkre_fullview_m8Z_icon.ico">
 <link rel="icon" href="round_cydia_icon_by_5284973_d4khkre_fullview_m8Z_icon.ico">
